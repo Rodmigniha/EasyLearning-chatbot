@@ -112,7 +112,7 @@ Les contributions sont les bienvenues ! Veuillez ouvrir une issue ou soumettre u
 
 Pour toute question ou demande de partenariat, n’hésitez pas à me contacter :
 
-Email : rodrigue.migniha@dauphine.tn , kidam.migniha@gmail.com , rodrigue.pro@gmail.com
+Email : rodrigue.migniha@dauphine.tn , kidam.migniha@gmail.com , rodrigue.pro2020@gmail.com
 GitHub : https://github.com/Rodmigniha/EasyLearning-chatbot.git
 
 
